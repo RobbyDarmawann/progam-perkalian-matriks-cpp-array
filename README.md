@@ -13,7 +13,7 @@ Program C++ ini mengalikan dua matriks \( A \) dan \( B \) berdasarkan dimensi d
 ## Cara Menjalankan Program
 1. Clone repository atau salin programnya.
     ```bash
-    [git clone https://github.com/nama-pengguna/repo-anda.git](https://github.com/RobbyDarmawann/progam-cpp-array.git](https://github.com/RobbyDarmawann/progam-perkalian-matriks-cpp-array.git)
+    https://github.com/RobbyDarmawann/progam-perkalian-matriks-cpp-array.git
     ```
 2. Kompilasi program.
     ```bash
